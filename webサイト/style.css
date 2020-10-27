@@ -1,0 +1,105 @@
+@media all and (min-width:0px){
+	body{
+		
+	}
+}
+@media all and (min-width:400px){
+	body{
+		
+	}
+}
+@media all and (min-width:800px){
+	body{
+		
+	}
+}
+body{
+	background-image: url(image/大理石.jpg);
+	background-position: center;
+	
+	background-size: 100vw;
+}
+h1{
+	font-size: 100px;
+	color:#ffffff;
+	text-align: center;
+	background-image: url("image/eスポーツ.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100vw;
+}
+h2{
+	font-size: 70px;
+}
+h3{
+	font-size: 50px;
+}
+p{
+	font-size: 25px;
+	padding: 0 40px;
+}
+ul{
+	font-size: 40px;
+}
+table{
+	background: #ffffff;
+	font-size: 40px;
+	margin: 0 auto 50px auto;
+}
+.center ul{
+	list-style: disc;
+	padding-left: 15px;
+}
+#center ul{
+	list-style: disc;
+	padding-left: 15px;
+}
+.center{
+	padding: 0.5em 1em;
+	margin: 2em 0;
+	border: solid 3px;
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+#center{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.center1{
+	margin: 0 auto;
+	display: block;
+}
+.centerbox{
+	text-align: center;
+}
+.centerbox p{
+	display: inline-block;
+	text-align: left;
+}
+section{
+	text-align: center;
+}
+table{
+	margin: 3px auto;
+}
+#fortnite{
+	margin: 10px auto 100px auto;
+}
+#sumabura{
+	margin: 10px auto 100px auto;
+}
+#rocket{
+	margin: 10px auto 100px auto;
+}
+#puyopuyo{
+	margin: 10px auto 100px auto;
+}
+.top{
+	position: fixed;
+	right: 0;
+	bottom: 50px;
+	height: 180px;
+}
